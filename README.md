@@ -27,7 +27,7 @@ Features are highlighted and lines are drawn while showing features side by side
 ```
 
 Feature Highlighted Image is shown below.
-![Image/Feature.png](https://github.com/HKyatham/SIFT_Detection_and_Homography_for_stiching_Images/blob/main/Images/Feature.png)
+![Image/Feature_2.png](https://github.com/HKyatham/SIFT_Detection_and_Homography_for_stiching_Images/blob/main/Images/Feature_2.png)
 
 Homography is calculated on various matched features in both images.
 ```
